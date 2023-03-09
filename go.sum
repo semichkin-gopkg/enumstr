@@ -1,0 +1,8 @@
+github.com/fatih/camelcase v1.0.0 h1:hxNvNX/xYBp0ovncs8WyWZrOrpBNub/JfaMvbURyft8=
+github.com/fatih/camelcase v1.0.0/go.mod h1:yN2Sb0lFhZJUdVvtELVWefmrXpuZESvPmqwoZc+/fpc=
+github.com/iancoleman/strcase v0.2.0 h1:05I4QRnGpI0m37iZQRuskXh+w77mr6Z41lwQzuHLwW0=
+github.com/iancoleman/strcase v0.2.0/go.mod h1:iwCmte+B7n89clKwxIoIXy/HfoL7AsD47ZCWhYzw7ho=
+github.com/semichkin-gopkg/conf v0.0.3 h1:Krrhc8B/GXhniLjYoazrz7KwR5/zLxhYqu+SfkezRF8=
+github.com/semichkin-gopkg/conf v0.0.3/go.mod h1:hcOYG4uFFkyVdK429d+vJjN8Hd8AWYWKBKTAcYL1H3E=
+github.com/semichkin-gopkg/mapping v0.0.6 h1:kEzLnztWiwqbJdT10ofy+XfKa/oE/J+BEKxt5X57X78=
+github.com/semichkin-gopkg/mapping v0.0.6/go.mod h1:UAecxM1vArh5QM/UjvdDDunJtvX0h6OxC4XEsGwB704=
